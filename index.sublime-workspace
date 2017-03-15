@@ -1,0 +1,408 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"nav",
+				"navop\t(index.html)"
+			],
+			[
+				"pad",
+				"padding-bottom"
+			],
+			[
+				"head",
+				"header\tTag"
+			],
+			[
+				"padd",
+				"padding-top"
+			],
+			[
+				"backg",
+				"background-color"
+			],
+			[
+				"fon",
+				"font-size"
+			],
+			[
+				"rel",
+				"relative"
+			],
+			[
+				"font",
+				"font-weight"
+			],
+			[
+				"back",
+				"background-color"
+			],
+			[
+				"no",
+				"no-repeat"
+			],
+			[
+				"bac",
+				"background-size"
+			],
+			[
+				"max",
+				"max-height"
+			],
+			[
+				"for",
+				"form-input\t(setting.html)"
+			],
+			[
+				"di",
+				"div\tTag"
+			],
+			[
+				"wid",
+				"width"
+			],
+			[
+				"marg",
+				"margin-top"
+			],
+			[
+				"R",
+				"RPAREN"
+			],
+			[
+				"open",
+				"openScope"
+			],
+			[
+				"sch",
+				"schedulelists\t(urls.py)"
+			],
+			[
+				"to",
+				"to_schedule_lists"
+			],
+			[
+				"margi",
+				"margin-bottom"
+			],
+			[
+				"col",
+				"color"
+			],
+			[
+				"bord",
+				"border-color"
+			],
+			[
+				"p",
+				"padding"
+			],
+			[
+				"mar",
+				"margin-left"
+			],
+			[
+				"background-c",
+				"background-color"
+			],
+			[
+				"enco",
+				"encoding='utf-8"
+			],
+			[
+				"file",
+				"filename[1"
+			],
+			[
+				"re",
+				"recv"
+			],
+			[
+				"conne",
+				"connectionSocket"
+			],
+			[
+				"conn",
+				"connectionSocket"
+			],
+			[
+				"serve",
+				"serverSocket"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 784.0,
+		"last_filter": "Package Control: ",
+		"selected_items":
+		[
+			[
+				"Package Control: ",
+				"Package Control: Disable Package"
+			],
+			[
+				"Package Control: ins",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 1056.0
+	},
+	"console":
+	{
+		"height": 246.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/C/Users/susie/Documents/projects/df0o.github.io/js/script.js",
+		"/C/Users/susie/Documents/projects/df0o.github.io/css/style.css",
+		"/C/Users/susie/Documents/projects/df0o.github.io/index.html",
+		"/C/Users/susie/Downloads/resize-header-on-scroll/js/classie.js",
+		"/C/Users/susie/Downloads/resize-header-on-scroll/css/style.css",
+		"/C/Users/susie/Downloads/resize-header-on-scroll/index.html",
+		"/C/Users/susie/Downloads/codex-night.in.the.woods/README.txt",
+		"/C/Users/susie/AppData/Roaming/Sublime Text 3/Packages/HTML-CSS-JS Prettify/.jsbeautifyrc",
+		"/C/Users/susie/Downloads/readme",
+		"/C/Users/susie/Documents/projects/df0o.github.io/css/stylesheet",
+		"/C/Users/susie/Documents/projects/df0o.github.io/README.md",
+		"/C/Users/susie/Downloads/SC.py",
+		"/C/Users/susie/Downloads/P0.py",
+		"/C/Users/susie/Documents/projects/wordPuzzle/Script/Grid.cs",
+		"/C/Users/susie/Documents/projects/wordPuzzle/Script/GridController.cs",
+		"/C/Users/susie/Documents/projects/wordPuzzle/Script/GameController.cs",
+		"/C/Users/susie/Documents/projects/wordPuzzle/Script/Tile/WordTile.cs",
+		"/C/Users/susie/Documents/projects/wordPuzzle/Script/Tile/Tile.cs",
+		"/C/Users/susie/Documents/projects/wordPuzzle/Script/Tile/Word.cs",
+		"/C/Users/susie/Documents/projects/wordPuzzle/Script/Utility.cs",
+		"/C/Users/susie/Documents/projects/wordPuzzle/Script/Level.cs",
+		"/C/Users/susie/Documents/projects/tile/README.md",
+		"/D/other/wordpuzzle/Readme.txt",
+		"/D/other/wordpuzzle/Script/ORM/SQLResultReader.cs",
+		"/D/other/wordpuzzle/Script/ORM/SQLMaker.cs",
+		"/D/other/wordpuzzle/Script/Device.cs",
+		"/D/other/wordpuzzle/Script/BoardGenerator.cs",
+		"/D/other/wordpuzzle/Script/Server.cs",
+		"/D/other/wordpuzzle/Script/Level.cs",
+		"/D/other/wordpuzzle/Script/GameController.cs",
+		"/D/other/wordpuzzle/MatchScreen.cs",
+		"/D/other/wordpuzzle/Script/FPSDisplay.cs",
+		"/D/other/wordpuzzle/Script/Utility.cs",
+		"/D/other/wordpuzzle/Script/User.cs",
+		"/D/other/wordpuzzle/Script/Main.cs",
+		"/D/other/wordpuzzle/Script/Tile/Tile.cs",
+		"/D/other/wordpuzzle/Script/GridController.cs",
+		"/D/other/wordpuzzle/Script/Grid.cs",
+		"/C/Users/susie/Documents/clinicFlow/runserver.txt",
+		"/C/Users/susie/Documents/clinicFlow/venv/src/mysite/clinicflow/static/css/styles.css",
+		"/C/Users/susie/Documents/clinicFlow/venv/src/mysite/clinicflow/templates/schedulelists.html",
+		"/C/Users/susie/Documents/clinicFlow/venv/src/mysite/clinicflow/templates/singleschedule.html",
+		"/C/Users/susie/Documents/clinicFlow/venv/src/mysite/clinicflow/templates/schedule.html",
+		"/C/Users/susie/Documents/clinicFlow/venv/src/mysite/mysite/settings.py",
+		"/C/Users/susie/Documents/clinicFlow/venv/src/mysite/clinicflow/templates/base.html",
+		"/C/Users/susie/Documents/clinicFlow/venv/src/mysite/clinicflow/views.py",
+		"/C/Users/susie/Documents/clinicFlow/venv/src/mysite/mysite/urls.py",
+		"/C/Bitnami/wampstack-7.1.2-0/apache2/htdocs/config/database.php",
+		"/C/Bitnami/wampstack-7.1.2-0/apache2/htdocs/.env",
+		"/C/Users/susie/AppData/Local/Temp/Temp1_Ubuntu.zip/UFL.txt",
+		"/C/Users/susie/Documents/clinicFlow/venv/src/mysite/manage.py",
+		"/C/Users/susie/AppData/Local/Temp/Temp1_COMPSCI 4TB3-Syntax-Based Tools and Compilers - COMPSCI 6TB3 - 2-28-2017 - 12-51 PM.zip/content/enforced/201442-COMPSCI_4TB3_emil_2171/P0.py",
+		"/C/Users/susie/Downloads/tb/P0.py",
+		"/C/Users/susie/Documents/clinicFlow/venv/src/mysite/clinicflow/templates/setting.html",
+		"/C/Users/susie/Documents/clinicFlow/venv/src/mysite/clinicflow/__init__.py",
+		"/C/Users/susie/Documents/clinicFlow/venv/src/mysite/clinicflow/admin.py",
+		"/C/Users/susie/Documents/clinicFlow/venv/src/mysite/clinicflow/apps.py",
+		"/C/Users/susie/Documents/clinicFlow/venv/src/mysite/clinicflow/tests.py",
+		"/C/Users/susie/Documents/clinicFlow/venv/src/mysite/clinicflow/models.py",
+		"/C/Users/susie/Documents/clinicFlow/venv/src/mysite/mysite/__init__.py",
+		"/C/Users/susie/Documents/clinicFlow/venv/src/mysite/clinicflow/templates/viewer.html",
+		"/C/Users/susie/Documents/clinicFlow/venv/src/ClinicFlow/Code/Test Code/ui_changes/mysite/clinicflow/static/css/styles.css",
+		"/C/Users/susie/Downloads/tb/P0testenum.py",
+		"/C/Users/susie/Downloads/tb/SC.py",
+		"/C/Users/susie/Downloads/tb/P0test.py",
+		"/C/Users/susie/Downloads/tb/ST.py",
+		"/C/Users/susie/Downloads/tb/q1.txt",
+		"/C/Users/susie/Downloads/tb/q1.py",
+		"/C/Users/susie/Desktop/temp.py",
+		"/C/Users/susie/Desktop/tb3.txt",
+		"/C/Users/susie/Documents/clinicFlow/venv/src/ClinicFlow/Code/Test Code/Demo_with_pymongo_database/mysite/clinicflow/static/css/styles.css",
+		"/C/Users/susie/Downloads/CSSReset.com - Keeping Footer At The Bottom Of The Page/CSSReset.com - Keeping Footer At The Bottom Of The Page/style.css",
+		"/D/school/4c03/assg1/Skeleton.py",
+		"/C/Users/susie/Documents/clinicFlow/venv/src/ClinicFlow/Code/Test Code/Demo_with_pymongo_database/mysite/clinicflow/templates/schedulelists.html",
+		"/C/Users/susie/Documents/clinicFlow/venv/src/ClinicFlow/Code/Test Code/Demo_with_pymongo_database/mysite/clinicflow/templates/singleschedule.html",
+		"/C/Users/susie/Documents/clinicFlow/venv/src/ClinicFlow/Code/Test Code/Demo_with_pymongo_database/mysite/clinicflow/templates/base.html",
+		"/C/Users/susie/Documents/clinicFlow/venv/src/ClinicFlow/Code/Test Code/Demo_with_pymongo_database/mysite/clinicflow/templates/schedule.html",
+		"/C/Users/susie/AppData/Roaming/Sublime Text 3/Packages/HTML-CSS-JS Prettify/HTMLPrettify.sublime-settings",
+		"/C/Users/susie/Documents/clinicFlow/venv/src/test/mysite/clinicflow/views.py",
+		"/C/Users/susie/Documents/clinicFlow/venv/src/test/mysite/mysite/settings.py",
+		"/C/Users/susie/Documents/clinicFlow/venv/src/test/ClinicMongoDB.py",
+		"/C/Users/susie/Documents/clinicFlow/venv/src/test/mysite/clinicflow/templates/base.html",
+		"/C/Users/susie/Documents/clinicFlow/venv/src/test/mysite/clinicflow/templates/viewer.html",
+		"/C/Users/susie/Documents/clinicFlow/venv/src/test/mysite/clinicflow/templates/schedulelists.html",
+		"/C/Users/susie/Documents/clinicFlow/venv/src/test/mysite/clinicflow/templates/schedule.html",
+		"/C/Users/susie/Documents/clinicFlow/venv/src/test/mysite/clinicflow/templates/login.html",
+		"/C/Users/susie/Desktop/Skeleton.py",
+		"/C/Users/susie/Desktop/sample.py",
+		"/C/Users/susie/Desktop/index.html",
+		"/C/Users/susie/Downloads/Skeletontest.py",
+		"/C/Users/susie/Downloads/tb/lab5-environment/MIDee.g4",
+		"/C/Users/susie/Downloads/tb/MIDee.g4",
+		"/C/Users/susie/AppData/Roaming/Sublime Text 3/Packages/Anaconda/README.md",
+		"/C/Users/susie/AppData/Roaming/Sublime Text 3/Packages/backrefs/readme.md",
+		"/D/school/4tb3/hw4/Q3.py",
+		"/C/Users/susie/Downloads/MIDee.g4",
+		"/D/school/web/README.txt",
+		"/C/Users/susie/AppData/Roaming/Sublime Text 3/Packages/User/SublimeREPL.sublime-settings",
+		"/C/Users/susie/AppData/Roaming/Sublime Text 3/Packages/SublimeTextTrans-1.2/Readme.md",
+		"/C/Users/susie/AppData/Roaming/Sublime Text 3/Installed Packages/Package Control.sublime-package",
+		"/C/Users/susie/AppData/Roaming/Sublime Text 3/Packages/SublimeTextTrans/SublimeTextTrans.sublime-settings",
+		"/C/Users/susie/Downloads/PythonMacros.g4"
+	],
+	"find":
+	{
+		"height": 35.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"this",
+			"updateMoveUI",
+			"base",
+			"shakeText",
+			"updateMoveUI",
+			"time"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 35.0
+	},
+	"input":
+	{
+		"height": 55.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "index.sublime-project",
+	"replace":
+	{
+		"height": 66.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 233.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
