@@ -161,6 +161,10 @@ nav.smaller ul li a {
   margin: 25px;
 }
 
+.fadeInBlock {
+  opacity: 0;
+}
+
 .about-content p {
   font-weight: 300;
   padding: 5px;
