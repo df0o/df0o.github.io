@@ -34,7 +34,7 @@ $(document).on("click", ".navop", function(event) {
 
 
 $(window).scroll(function() {
-    $('.fadeInBlock').each(function(i) {
+    $('.fade-in').each(function(i) {
         var bottom_of_object = $(this).position().top + $(this).outerHeight();
         var bottom_of_window = $(window).scrollTop() + $(window).height();
 
