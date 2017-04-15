@@ -21,7 +21,15 @@ $(document).ready(function() {
                 classie.remove(nav, "smaller");
             }
         }
-    })
+    });
+
+    $(".regular").slick({
+        dots: true,
+        infinite: true,
+        slidesToShow: 2,
+        slidesToScroll: 1,
+        variableWidth: true
+    });
 });
 
 $(document).on("click", ".navop", function(event) {
@@ -44,5 +52,14 @@ $(window).scroll(function() {
 
             $(this).animate({ 'opacity': '1' }, 1000);
         }
+    });
+});
+
+$(document).on('ready', function() {
+    $(".regular").slick({
+        dots: true,
+        infinite: true,
+        slidesToShow: 3,
+        slidesToScroll: 3
     });
 });
