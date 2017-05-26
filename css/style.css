@@ -199,17 +199,17 @@ nav.smaller ul li a {
 }
 
 h1 {
-  margin: 50px 0 20px 0;
+  margin: 20px 0 50px 0;
   font-size: 170%;
   font-weight: 500;
 }
 
-#develop-pic {
+/*#develop-pic {
   width: 60px;
   height: 50px;
   margin-bottom: 20px;
 }
-
+*/
 .skills-content p {
   font-weight: 300;
   padding: 5px;
@@ -289,6 +289,11 @@ h1 {
   color: #d3d3d3;
   float: right;
   padding-right: 10px;
+}
+
+.developIcon {
+  color: #8a8a8a;
+  margin-bottom: 10px;
 }
 
 .proj-img {
