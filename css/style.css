@@ -61,6 +61,22 @@ nav.smaller ul li a {
   font-size: 80%;
 }
 
+@media (max-width: 800px) {
+    *,
+  html {
+    zoom: 1.001;
+    -moz-transform: scale(1.001);
+    -moz-transform-origin: 0 0;
+    font-size: 101%;
+  }
+
+  .proj-wrap {
+    width: 90%;
+    min-width: 500px;
+  }
+
+}
+
 
 /* home content */
 
