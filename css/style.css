@@ -61,7 +61,7 @@ nav.smaller ul li a {
   font-size: 80%;
 }
 
-@media (max-width: 800px) {
+/*@media (max-width: 800px) {
     *,
   html {
     zoom: 1.001;
@@ -75,7 +75,7 @@ nav.smaller ul li a {
     min-width: 500px;
   }
 
-}
+}*/
 
 
 /* home content */
