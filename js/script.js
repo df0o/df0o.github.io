@@ -37,7 +37,7 @@ $(document).on("click", ".navop", function(event) {
     var target = this.getAttribute("href");
     $("html, body").animate({
         scrollTop: $(target).offset().top
-    }, 2000);
+    }, 1200);
 });
 
 
