@@ -1,4 +1,1 @@
-https://df0o.github.io/
-
-to do:
-- fix media query 
+[https://df0o.github.io/](https://df0o.github.io/)

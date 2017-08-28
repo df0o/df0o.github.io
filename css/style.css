@@ -61,21 +61,46 @@ nav.smaller ul li a {
   font-size: 80%;
 }
 
-/*@media (max-width: 800px) {
-    *,
-  html {
-    zoom: 1.001;
-    -moz-transform: scale(1.001);
-    -moz-transform-origin: 0 0;
-    font-size: 101%;
+/* SMARTPHONES PORTRAIT */
+@media only screen and (max-device-width : 480px) {
+  nav ul {
+    padding: 50px 0;
   }
 
-  .proj-wrap {
-    width: 90%;
-    min-width: 500px;
+  nav ul li a {
+    font-size: 200%;
+    padding: 30px;
   }
 
-}*/
+  nav.smaller ul {
+    padding: 10px 0;
+  }
+
+  nav.smaller ul li a {
+    font-size: 200%;
+    padding: 30px;
+  }
+}
+
+@media only screen and (min-device-width : 481px) and (max-device-width : 1024px) {
+  nav ul {
+    padding: 35px 0;
+  }
+
+  nav ul li a {
+    font-size: 170%;
+    padding: 20px;
+  }
+
+  nav.smaller ul {
+    padding: 10px 0;
+  }
+
+  nav.smaller ul li a {
+    font-size: 150%;
+    padding: 35px;
+  }
+}
 
 
 /* home content */
@@ -153,6 +178,53 @@ nav.smaller ul li a {
 }
 
 
+@media only screen and (max-device-width : 480px) {
+  .overlay-text {
+    width: 80%;
+    left: 10%;
+  }
+
+  #title {
+    font-size: 550%;
+  }
+
+  #title-sub {
+    font-size: 250%;
+  }
+
+  #scrolldown {
+    left: 45%;
+  }
+
+  #scrolldown p {
+    font-size: 200%;
+  }
+}
+
+@media only screen and (min-device-width : 481px) and (max-device-width : 1024px) {
+  .overlay-text {
+    width: 80%;
+    left: 10%;
+  }
+
+  #title {
+    font-size: 550%;
+  }
+
+  #title-sub {
+    font-size: 180%;
+  }
+
+  #scrolldown {
+    left: 45%;
+  }
+
+  #scrolldown p {
+    font-size: 200%;
+  }
+}
+
+
 /* about content */
 
 .about-content {
@@ -193,6 +265,43 @@ nav.smaller ul li a {
   position: relative;
 }
 
+@media only screen and (max-device-width : 480px) {
+  .myface {
+    width: 300px;
+  }
+
+  .content-title {
+    font-size: 450%;
+    margin-bottom: 50px;
+  }
+
+  .about-content p {
+    line-height: 150%;
+    left: 10%;
+    width: 80%;
+    margin-bottom: 50px;
+  }
+}
+
+@media only screen and (min-device-width : 481px) and (max-device-width : 1024px) {
+  .myface {
+    width: 200px;
+  }
+
+  .content-title {
+    font-size: 400%;
+    margin-bottom: 30px;
+  }
+
+  .about-content p {
+    line-height: 120%;
+    left: 10%;
+    width: 80%;
+    margin-bottom: 20px;
+    font-size: 200%;
+  }
+}
+
 
 /* skills content */
 
@@ -220,12 +329,6 @@ h1 {
   font-weight: 500;
 }
 
-/*#develop-pic {
-  width: 60px;
-  height: 50px;
-  margin-bottom: 20px;
-}
-*/
 .skills-content p {
   font-weight: 300;
   padding: 5px;
@@ -239,6 +342,44 @@ h1 {
 .skill-text {
   text-align: center;
   margin: 20px 0;
+}
+
+
+@media only screen and (max-device-width : 480px) {
+  .skills-content {
+    width: 100%;
+  }
+
+  h1 {
+    font-size: 450%;
+    margin-bottom: 50px;
+  }
+
+  .skills-content p {
+    line-height: 150%;
+    left: 10%;
+    width: 80%;
+    margin-bottom: 50px;
+  }
+}
+
+@media only screen and (min-device-width : 481px) and (max-device-width : 1024px) {
+  .skills-content {
+    width: 100%;
+  }
+
+  h1 {
+    font-size: 300%;
+    margin-bottom: 40px;
+  }
+
+  .skills-content p {
+    line-height: 120%;
+    left: 10%;
+    width: 80%;
+    margin-bottom: 20px;
+    font-size: 200%;
+  }
 }
 
 
@@ -308,11 +449,6 @@ h1 {
   padding-right: 10px;
 }
 
-.developIcon {
-  color: #8a8a8a;
-  margin-bottom: 10px;
-}
-
 .proj-img {
   padding: 0 10px;
   float: left;
@@ -321,6 +457,80 @@ h1 {
 .proj-img img {
   height: 180px;
   width: auto;
+}
+
+
+@media only screen and (max-device-width : 480px) {
+  .proj-wrap {
+    border: 3px solid white;
+    border-radius: 10px;
+    height: 700px;
+    width: 90%;
+  }
+
+  .proj-title {
+    font-size: 350%;
+  }
+
+  .proj-descrpt {
+    font-size: 200%;
+    height: 200px;
+  }
+
+  #desbot {
+    margin-top: 100px;
+    height: 50px;
+    font-size: 160%;
+  }
+
+  .proj-img img {
+    height: 250px;
+  }
+
+  .gitHicon {
+    font-size: 70px;
+    margin-top: 100px;
+  }
+
+  .fa-link {
+    font-size: 55px !important;
+  }
+}
+
+@media only screen and (min-device-width : 481px) and (max-device-width : 1024px) {
+  .proj-wrap {
+    border: 2px solid white;
+    border-radius: 10px;
+    height: 550px;
+    width: 90%;
+  }
+
+  .proj-title {
+    font-size: 250%;
+  }
+
+  .proj-descrpt {
+    font-size: 150%;
+    height: 120px;
+  }
+
+  #desbot {
+    margin-top: 70px;
+    height: 50px;
+  }
+
+  .proj-img img {
+    height: 250px;
+  }
+
+  .gitHicon {
+    font-size: 50px;
+    margin-top: 70px;
+  }
+
+  .fa-link {
+    font-size: 40px !important;
+  }
 }
 
 
@@ -338,7 +548,11 @@ h1 {
 
 #contact-title, #my-email {
   font-weight: 400;
+}
 
+.developIcon {
+  color: #8a8a8a;
+  margin-bottom: 10px;
 }
 
 .google-form-wrap {
@@ -376,11 +590,9 @@ form div input {
 form div textarea {
   height: 100px;
   resize: vertical;
-}
-
-#Cmessage {
   padding: 10px 10px;
 }
+
 
 .form-button {
   margin-top: 10px;
@@ -421,6 +633,99 @@ form div textarea {
   background-color: #a0a0a0;
 }
 
+@media only screen and (max-device-width : 480px) {
+  .contact-content {
+    height: 1550px;
+  }
+
+  .fa-paper-plane-o {
+    font-size: 65px !important;
+  }
+
+  #contact-title {
+    font-weight: 400;
+    font-size: 250%;
+  }
+
+  #my-email {
+    font-size: 300%;
+    margin-bottom: 40px;
+  }
+
+  form div input, form div textarea {
+    width: 80%;
+    height: 60px;
+    border: 5px solid #a0a0a0;
+    font-size: 220%;
+  }
+
+  form div textarea {
+    height: 300px;
+  }
+
+  .form-button {
+    font-size: 250%;
+    margin-top: 30px;
+  }
+
+  #resume-below {
+    margin-top: 450px;
+  }
+
+  #resume-link {
+    width: 45%;
+    padding: 50px auto;
+    font-size: 300%;
+  }
+}
+
+@media only screen and (min-device-width : 481px) and (max-device-width : 1024px) {
+  .contact-content {
+    height: 1400px;
+  }
+
+  .fa-paper-plane-o {
+    font-size: 45px !important;
+  }
+
+  #contact-title {
+    font-weight: 400;
+    font-size: 200%;
+  }
+
+  #my-email {
+    font-size: 250%;
+    margin-bottom: 35px;
+  }
+
+  form div input, form div textarea {
+    width: 80%;
+    height: 50px;
+    border: 5px solid #a0a0a0;
+    font-size: 200%;
+  }
+
+  form div textarea {
+    height: 300px;
+  }
+
+  .form-button {
+    font-size: 250%;
+    margin-top: 30px;
+  }
+
+  #resume-below {
+    margin-top: 400px;
+  }
+
+  #resume-link {
+    width: 45%;
+    padding: 50px auto;
+    font-size: 300%;
+  }
+}
+
+
 /* social content */
 
 .social-content {
@@ -456,6 +761,18 @@ form div textarea {
   font-weight: 300;
 }
 
+
+@media only screen and (max-device-width : 480px) {
+  .foot-text {
+    font-size: 150%;
+  }
+}
+
+@media only screen and (min-device-width : 481px) and (max-device-width : 1024px) {
+  .foot-text {
+    font-size: 150%;
+  }
+}
 
 /* links */
 
