@@ -62,7 +62,7 @@ nav.smaller ul li a {
 }
 
 /* SMARTPHONES PORTRAIT */
-@media only screen and (max-device-width : 480px) {
+@media only screen and (max-width : 480px) {
   nav ul {
     padding: 50px 0;
   }
@@ -82,7 +82,7 @@ nav.smaller ul li a {
   }
 }
 
-@media only screen and (min-device-width : 481px) and (max-device-width : 1024px) {
+@media only screen and (min-width : 481px) and (max-width : 1024px) {
   nav ul {
     padding: 35px 0;
   }
@@ -178,7 +178,7 @@ nav.smaller ul li a {
 }
 
 
-@media only screen and (max-device-width : 480px) {
+@media only screen and (max-width : 480px) {
   .overlay-text {
     width: 80%;
     left: 10%;
@@ -201,7 +201,7 @@ nav.smaller ul li a {
   }
 }
 
-@media only screen and (min-device-width : 481px) and (max-device-width : 1024px) {
+@media only screen and (min-width : 481px) and (max-width : 1024px) {
   .overlay-text {
     width: 80%;
     left: 10%;
@@ -265,7 +265,7 @@ nav.smaller ul li a {
   position: relative;
 }
 
-@media only screen and (max-device-width : 480px) {
+@media only screen and (max-width : 480px) {
   .myface {
     width: 300px;
   }
@@ -283,7 +283,7 @@ nav.smaller ul li a {
   }
 }
 
-@media only screen and (min-device-width : 481px) and (max-device-width : 1024px) {
+@media only screen and (min-width : 481px) and (max-width : 1024px) {
   .myface {
     width: 200px;
   }
@@ -345,7 +345,7 @@ h1 {
 }
 
 
-@media only screen and (max-device-width : 480px) {
+@media only screen and (max-width : 480px) {
   .skills-content {
     width: 100%;
   }
@@ -363,7 +363,7 @@ h1 {
   }
 }
 
-@media only screen and (min-device-width : 481px) and (max-device-width : 1024px) {
+@media only screen and (min-width : 481px) and (max-width : 1024px) {
   .skills-content {
     width: 100%;
   }
@@ -460,7 +460,7 @@ h1 {
 }
 
 
-@media only screen and (max-device-width : 480px) {
+@media only screen and (max-width : 480px) {
   .proj-preview {
     max-width: 94%;
   }
@@ -501,7 +501,7 @@ h1 {
   }
 }
 
-@media only screen and (min-device-width : 481px) and (max-device-width : 1024px) {
+@media only screen and (min-width : 481px) and (max-width : 1024px) {
   .proj-wrap {
     border: 2px solid white;
     border-radius: 10px;
@@ -637,7 +637,7 @@ form div textarea {
   background-color: #a0a0a0;
 }
 
-@media only screen and (max-device-width : 480px) {
+@media only screen and (max-width : 480px) {
   .contact-content {
     height: 1550px;
   }
@@ -683,7 +683,7 @@ form div textarea {
   }
 }
 
-@media only screen and (min-device-width : 481px) and (max-device-width : 1024px) {
+@media only screen and (min-width : 481px) and (max-width : 1024px) {
   .contact-content {
     height: 1400px;
   }
@@ -766,13 +766,13 @@ form div textarea {
 }
 
 
-@media only screen and (max-device-width : 480px) {
+@media only screen and (max-width : 480px) {
   .foot-text {
     font-size: 150%;
   }
 }
 
-@media only screen and (min-device-width : 481px) and (max-device-width : 1024px) {
+@media only screen and (min-width : 481px) and (max-width : 1024px) {
   .foot-text {
     font-size: 150%;
   }
